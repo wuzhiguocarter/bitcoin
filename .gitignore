@@ -151,3 +151,10 @@ dist/
 *.background.tiff
 
 /guix-build-*
+
+
+.vscode/
+Doxyfile
+compile_commands.json
+doc-doxygen/
+output/
